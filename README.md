@@ -4,3 +4,7 @@
 - GUI: matplotlib, seaborn, customtkinter, tkinter
 - Data processing: Numpy, Pandas, OpenCV
 - Modelling: Scikit-learn and Tensorflow
+
+__NOTE__: Extract train.rar to data/mnist
+
+![My Image](assets/home_page.png)
