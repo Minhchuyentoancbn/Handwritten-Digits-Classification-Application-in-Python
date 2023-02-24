@@ -1,2 +1,6 @@
 # Handwritten-Digits-Classification-Application-in-Python
-Handwritten Digits Classification Application in Python with GUI.
+
+## Libraries:
+- GUI: matplotlib, seaborn, customtkinter, tkinter
+- Data processing: Numpy, Pandas, OpenCV
+- Modelling: Scikit-learn and Tensorflow
